@@ -17,7 +17,7 @@ proefpersoneninformatie door te nemen alvorens u beslist om deel te nemen aan
 de studie of niet. Deze proefpersoneninformatie kunt u vinden via de
 onderstaande link.
 
-🗎 [Proefpersoneninformatie](TraumaCtrl_InformationBrochure_Version3.0.pdf)
+📄 [Proefpersoneninformatie](TraumaCtrl_InformationBrochure_Version3.0.pdf)
 
 ## Het onderzoek
 Dit onderzoek is opgezet door het [Radboudumc](https://radboudumc.nl) en
@@ -118,9 +118,9 @@ onderzoeksinstituut in Maastricht). Bij vragen of zorgen kunt u ook altijd
 contact opnemen met het onderzoeksteam (zie ‘Contact’). Hieronder kunt u meer
 lezen over de MRI-scanner.
 
-🗎 [MRI informatiebrochure (Nijmegen)](https://www.ru.nl/publish/library/397/algemene_informatie-pif_versie_3_2-.pdf)
+📄 [MRI informatiebrochure (Nijmegen)](https://www.ru.nl/publish/library/397/algemene_informatie-pif_versie_3_2-.pdf)
 
-🗎 [MRI informatiebrochure (Maastricht)](https://scannexus.nl/resources/js/tinymce/plugins/imagemanager/files/diversen/InformationBrochure_Dutch.pdf)
+📄 [MRI informatiebrochure (Maastricht)](https://scannexus.nl/resources/js/tinymce/plugins/imagemanager/files/diversen/InformationBrochure_Dutch.pdf)
 
 ### Wat is een MRI en is het veilig?
 Ja, dit is een zeer veilige onderzoeksmethode. MRI is een beeldvormende
@@ -176,7 +176,7 @@ daarvan is beschikbaar in de “proefpersoneninformatie”. Deze vindt u via de
 onderstaande link. Hier vertellen wij ook precies wat wij van u verwachten en
 met u afspreken als u deelneemt aan het onderzoek.
 
-🗎 [Proefpersoneninformatie](TraumaCtrl_InformationBrochure_Version3.0.pdf)
+📄 [Proefpersoneninformatie](TraumaCtrl_InformationBrochure_Version3.0.pdf)
 
 ## Locatie, contact en overig
 ### Wat is het adres van het onderzoeksinstituut
