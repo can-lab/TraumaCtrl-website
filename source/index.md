@@ -23,7 +23,7 @@ onderstaande link.
 Dit onderzoek is opgezet door het [Radboudumc](https://radboudumc.nl) en
 betreft een samenwerking tussen twee medische centra: het
 [Radboudumc](https://radboudumc.nl) te Nijmegen en het Universitair Medisch
-Centrum te Maastricht ([Maastricht UMC+](https://mumc.nl). Het onderzoek zal
+Centrum te Maastricht ([Maastricht UMC+](https://mumc.nl)). Het onderzoek zal
 uitgevoerd worden door onderzoekers van het
 [Radboudumc](https://radboudumc.nl)/[Radboud University](https://www.ru.nl) en
 [MaastrichtUMC+](https://mumc.nl)/[Maastricht University](https://maastrichtuniversity.nl). Als u bereid bent tot deelname aan het onderzoek, wordt u in de buurt van uw woonplaats onderzocht. U wordt altijd op dezelfde locatie onderzocht:
@@ -80,11 +80,11 @@ langskomt bij het onderzoeksinstituut voor verschillende metingen en taken.
 Alle metingen vinden op dezelfde locatie plaats.
 
 Tijdens het eerste bezoek (ca. 2 uur) zult u informatie over de studie
-ontvangen en is er voldoende ruimte om vragen te stellen.U zal enkele
+ontvangen en is er voldoende ruimte om vragen te stellen. U zal enkele
 vragenlijsten beantwoorden en ondergaat u tijdens deze sessie enkele korte
 scans in een MRI-scanner.
 
-Het tweede (ca. 2 uur), derde en vierde (ca. 1 uur en 15 minutes) bezoek
+Het tweede (ca. 2 uur), derde en vierde (ca. 1 uur en 15 minuten) bezoek
 omvatten de neurofeedback training sessies, waar u strategieën zal ontwikkelen
 om uw eigen hersenactiviteit te reguleren. Na de laatste training sessie
 (training sessie 3) zullen we, op basis van uw resultaten, beslissen of een
@@ -153,7 +153,7 @@ mogelijk voelt. Ook neurofeedback is over het algemeen een veilige methode. Er
 bestaan geen negatieve bijwerkingen die specifiek zijn voor de methode, met
 uitzondering van enkele vermeldingen van moeheid, hoofdpijn, angst en moeite om
 in slaap te vallen. Daarnaast kunnen sommige vragenlijsten die tijdens het
-onderzoek beantwoordt moeten worden kunnen als confronterend ervaren worden.
+onderzoek beantwoord moeten worden kunnen als confronterend ervaren worden.
 Een voorbeeld hiervan is de vragenlijst over stressvolle gebeurtenissen. Ook
 zal u tijdens een van de taken afbeeldingen (tijdens sessie 5) met een
 negatieve emotionele lading te zien krijgen. Deze afbeeldingen kunnen als
