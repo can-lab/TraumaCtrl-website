@@ -56,6 +56,11 @@ html_footer = [
     '<p>',
     'Created with <a href="https://fladd.github.io/StuffPages/">StuffPages</a>',
     '</p>',
+    '<p>',
+    '(<a href="https://www.flaticon.com/free-icons/mri" title="mri icons">Mri icons created by DinosoftLabs - Flaticon</a>,',
+    '<a href="https://icon-library.com/icon/neural-network-icon-26.html">Neural Network Icon # 119896 by icon-library.com</a>,',
+    '<a href="https://www.iconpacks.net/free-icon/thermometer-1829.html">Thermometer icon by iconpacks.net</a>)',
+    '</p>',
 ]
 
 # Format for each item in pages listings ([PAGES])
