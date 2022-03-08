@@ -193,4 +193,5 @@ Contact met de hoofdonderzoeker Dr. Erno Hermans:
 >Email: [Erno.Hermans@donders.ru.nl](mailto:Erno.Hermans@donders.ru.nl)
 
 Contact met het onderzoeksteam:  
->Email: [voeg e-mailadres toe] Tel.: [voeg telefoonnummer toe]
+>Email: [traumactrl@donders.ru.nl](mailto:traumactrl@donders.ru.nl)  
+>Tel.: [voeg telefoonnummer toe]
