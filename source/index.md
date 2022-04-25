@@ -17,8 +17,8 @@ proefpersoneninformatie door te nemen alvorens u beslist om deel te nemen aan
 de studie of niet. Deze proefpersoneninformatie kunt u vinden via de
 onderstaande link.
 
-📄 [Proefpersoneninformatie Nijmegen](TraumaCtrl_InformationBrochure_Version4.0_Nijmegen.pdf)  
-📄 [Proefpersoneninformatie Maastricht](TraumaCtrl_InformationBrochure_Version4.0_Maastricht.pdf)
+📄 [Proefpersoneninformatie Nijmegen](TraumaCtrl_InformationBrochure_Version4.5_Nijmegen.pdf)  
+📄 [Proefpersoneninformatie Maastricht](TraumaCtrl_InformationBrochure_Version4.5_Maastricht.pdf)
 
 ## Het onderzoek
 Dit onderzoek is opgezet door het [Radboudumc](https://radboudumc.nl) en
@@ -177,8 +177,8 @@ daarvan is beschikbaar in de “proefpersoneninformatie”. Deze vindt u via de
 onderstaande link. Hier vertellen wij ook precies wat wij van u verwachten en
 met u afspreken als u deelneemt aan het onderzoek.
 
-📄 [Proefpersoneninformatie Nijmegen](TraumaCtrl_InformationBrochure_Version4.0_Nijmegen.pdf)  
-📄 [Proefpersoneninformatie Maastricht](TraumaCtrl_InformationBrochure_Version4.0_Maastricht.pdf)
+📄 [Proefpersoneninformatie Nijmegen](TraumaCtrl_InformationBrochure_Version4.5_Nijmegen.pdf)  
+📄 [Proefpersoneninformatie Maastricht](TraumaCtrl_InformationBrochure_Version4.5_Maastricht.pdf)
 
 ## Locatie, contact en overig
 ### Wat is het adres van het onderzoeksinstituut
