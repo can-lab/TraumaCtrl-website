@@ -31,7 +31,7 @@ uitgevoerd worden door onderzoekers van het
 óf in Nijmegen óf in Maastricht.
 
 ## Uw deelname aan het oderzoek
-Voor het onderzoek zoeken wij mensen met PTSS die hiervoor in behandeling gaan.
+Voor het onderzoek zoeken wij mensen met PTSS.
 Daarom bent u door uw behandelaar uitgenodigd voor deelname aan dit onderzoek.
 Bedankt dat u deelname aan deze studie overweegt.
 
@@ -70,7 +70,7 @@ Als u meedoet aan het onderzoek, duurt dat in totaal ongeveer vijf tot zeven
 weken. Het onderzoek bestaat uit twee delen: de test dagen waarvoor u het
 onderzoekinstituut bezoekt (vijf tot zes keer) en dagelijkse metingen waarvoor
 u het instituut niet hoeft te bezoeken (drie weken in totaal). U zal aan het
-onderzoek deelnemen terwijl u op behandeling wacht.
+onderzoek deelnemen op het moment dat u (nog) niet in behandeling bent.
 
 ### Metingen bij het onderzoeksinstituut
 Metingen zullen uitgevoerd worden aan het “Donders Centre for Cognitive
@@ -85,7 +85,7 @@ ontvangen en is er voldoende ruimte om vragen te stellen. U zal enkele
 vragenlijsten beantwoorden en ondergaat u tijdens deze sessie enkele korte
 scans in een MRI-scanner.
 
-Het tweede (ca. 2 uur), derde en vierde (ca. 1 uur en 15 minuten) bezoek
+Het tweede (ca. 1 uur en 30 minuten), derde en vierde (ca. 1 uur en 15 minuten) bezoek
 omvatten de neurofeedback training sessies, waar u strategieën zal ontwikkelen
 om uw eigen hersenactiviteit te reguleren. Na de laatste training sessie
 (training sessie 3) zullen we, op basis van uw resultaten, beslissen of een
@@ -194,5 +194,8 @@ Het adres van het onderzoeksinstituut in Maastricht (Scannexus) is:
 Contact met de hoofdonderzoeker Dr. Erno Hermans:  
 >Email: [Erno.Hermans@donders.ru.nl](mailto:Erno.Hermans@donders.ru.nl)
 
-Contact met het onderzoeksteam:  
->Email: [TraumaCtrl@donders.ru.nl](mailto:traumactrl@donders.ru.nl)  
+Contact met het onderzoeksteam in Nijmegen:  
+>Email: [nijmegen@traumactrl.nl](mailto:nijmegen@traumactrl.nl)  
+
+Contact met het onderzoeksteam in Maastricht:  
+>Email: [maastricht@traumactrl.nl](mailto:maastricht@traumactrl.nl) 
